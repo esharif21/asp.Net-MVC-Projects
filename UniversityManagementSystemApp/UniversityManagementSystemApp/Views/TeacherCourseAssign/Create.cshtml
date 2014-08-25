@@ -1,0 +1,222 @@
+﻿@model UniversityManagementSystemApp.Models.TeacherCourseAssign
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+@*@Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control" }, })*@
+@*@Html.DropDownList("CategoryId", null, "select a category", new { @class = "form-control" })*@
+
+
+@using (Html.BeginForm(null, null, FormMethod.Post, new { id = "teacherCourseAssignForm" })) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>TeacherCourseAssign</h4>
+        <hr />
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            @Html.Label("Department", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("DepartmentId",null, "[Select Department]", new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.DepartmentId)
+                <div id="DepartmentSelectionError">
+
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Teacher", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("TeacherId",null, "[Select Teacher]", new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.TeacherId)
+                <div id="TeacherSelectionError">
+
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="CretidToBeTaken" class="col-sm-2 control-label">Cretid to be taken</label>
+            <div class="col-sm-10">
+                <input type="text" readonly class="form-control" id="CretidToBeTaken">
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="RemainingCretid" class="col-sm-2 control-label">Remaining cretid</label>
+            <div class="col-sm-10">
+                <input type="text" readonly class="form-control" id="RemainingCretid">
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Course Title", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("CourseId",null, "[Select Course]", new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.CourseId)
+                <div id="CourseSelectionError">
+
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="CourseName" class="col-sm-2 control-label">Course name</label>
+            <div class="col-sm-10">
+                <input type="text" readonly class="form-control" id="CourseName">
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="Credit" class="col-sm-2 control-label">Credit</label>
+            <div class="col-sm-10">
+                <input type="text" readonly class="form-control" id="Credit">
+            </div>
+        </div>
+        <input type="hidden" readonly class="form-control" id="hiddenCoursStatus">
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Assign" class="btn btn-primary" id="AssignButton" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+@*<script src="~/Scripts/jquery.confirm.js"></script>*@
+<script>
+    $(document).ready(function () {
+        //cascede DDL:
+        function loadTeacherAndCourseDDL(deptId) {
+            var items = "<option value=\"\">" + "[Select Teacher]" + "</option>";
+            $.ajax({
+                url: "@Url.Action("GetTeacherInfoByDept", "TeacherCourseAssign")",//action, controller
+                data: { departmentId: deptId},
+            dataType: "json",
+            type: "POST",
+            error: function() {
+                $("#TeacherId").html(items);
+                $("#DepartmentSelectionError").show().text("Please select a department.").addClass("btn-danger").fadeOut(4000);
+            },
+            success: function(data) {
+                $.each(data, function(i, item) {
+                    items += "<option value=\"" + item.Value + "\">" + item.Text + "</option>";
+                });
+                $("#TeacherId").html(items);
+            }
+            });
+            var courseItems = "<option value=\"\">" + "[Select Course]" + "</option>";
+            $.ajax({
+                url: "@Url.Action("GetCourseInfoByDept", "TeacherCourseAssign")",//action, controller
+                data: { departmentId: deptId},
+            dataType: "json",
+            type: "POST",
+            error: function() {
+                    $("#CourseId").html(courseItems);
+                    //$("#CourseSelectionError").show().text("Please select a course.").addClass("btn-danger").fadeOut(4000);
+                },
+                success: function(data) {
+                    $.each(data, function(i, item) {
+                        courseItems += "<option value=\"" + item.Value + "\">" + item.Text + "</option>";
+                    });
+                    $("#CourseId").html(courseItems);
+                }
+            });
+        }
+        $("#DepartmentId").change(function () {
+            $("#CretidToBeTaken").val("");
+            $("#RemainingCretid").val("");
+            var deptId = $("#DepartmentId").val();
+            $("#CourseName").val("");
+            $("#Credit").val("");
+            $("#teacherData").empty();
+            loadTeacherAndCourseDDL(deptId);
+        });
+
+        $("#TeacherId").change(function () {
+            $("#CretidToBeTaken").val("");
+            $("#RemainingCretid").val("");
+                var optionSelected = $(this).find("option:selected");
+                var valueSelected = optionSelected.val();
+                if (valueSelected) {
+                    var json = { teacherId: valueSelected };
+                    $.ajax({
+                        type: "POST",
+                        url: '@Url.Action("GetTeacherInfo", "TeacherCourseAssign")',
+                        contentType: "application/json; charset=utf-8",
+                        data: JSON.stringify(json),
+                        dataType: "json",
+                        success: function(data) {
+                            $("#CretidToBeTaken").val(data.CreditTaken);
+                            $("#RemainingCretid").val(data.CreditRemaining);
+                        }
+                    });
+                } else {
+                    $("#TeacherSelectionError").show().text("Please select a teacher.").addClass("btn-danger").fadeOut(4000);
+                    $("#CretidToBeTaken").val("");
+                    $("#RemainingCretid").val("");
+                }
+        });
+            $("#CourseId").change(function () {
+                var optionSelected = $(this).find("option:selected");
+                //$("#AssignButton").removeClass('btn-danger').addClass('btn-primary');
+                var valueSelected = optionSelected.val();
+                if (valueSelected) {
+                    var json = { courseId: valueSelected };
+                    $.ajax({
+                        type: "POST",
+                        url: '@Url.Action("GetCourseInfo", "TeacherCourseAssign")',
+                        contentType: "application/json; charset=utf-8",
+                        data: JSON.stringify(json),
+                        dataType: "json",
+                        success: function (data) {
+                            $("#CourseName").val(data.Name);
+                            $("#Credit").val(data.Credit);
+                            $("#hiddenCoursStatus").val(data.CourseStatus);
+                            if(parseInt(data.CourseStatus)==1)
+                                $("#AssignButton").removeClass('btn-primary').addClass('btn-danger');
+                            else {
+                                $("#AssignButton").removeClass('btn-danger').addClass('btn-primary');
+                            }
+                        }
+                    });
+                } else {
+                    $("#CourseSelectionError").show().text("Please select a course.").addClass("btn-danger").fadeOut(4000);
+                    $("#CourseName").val("");
+                    $("#Credit").val("");
+                    $("#hiddenCoursStatus").val("");
+                }
+            });
+            $("#teacherCourseAssignForm").submit(function (event) {
+                var remainingCredit = parseFloat($("#RemainingCretid").val());
+                var selectedCourseCredit = parseFloat($("#Credit").val());
+                var courseStatus = $("#hiddenCoursStatus").val();
+                if (courseStatus == 1) {
+                    alert("This course already assigned");
+                    $("#AssignButton").removeClass('btn-primary').addClass('btn-danger');
+                    event.preventDefault();
+                    return false;
+                } 
+                if (selectedCourseCredit > remainingCredit)
+                {
+                    $("#AssignButton").addClass('btn-info');
+                    var c = confirm("Selected course credit greater than teacher's reamaining credit, Click OK to assign the course");
+                    var d = 5;
+                }
+                if (c) {
+                    $("#AssignButton").addClass('btn-success');
+                } else if(d) {
+                    event.preventDefault();
+                    return false;
+                } 
+            });
+        });
+</script>
+}

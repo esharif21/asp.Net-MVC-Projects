@@ -1,0 +1,4 @@
+Guideline:
+==========
+1. Change server name from web.config file
+2. write command "update-database" at project manager console

@@ -1,0 +1,49 @@
+﻿@model IEnumerable<UniversityManagementSystemApp.Models.ViewModel.ViewCourseStatusModel>
+
+@{
+    ViewBag.Title = "ViewCourseStatus";
+}
+
+<table class="table table-hover table-striped">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Code)
+        </th>
+        <th>
+            @Html.DisplayName("Name/Title")
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Semester)
+        </th>
+
+        <th>
+            @Html.DisplayName("Assigned to")
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr class="table-hover">
+            <td>
+                @Html.DisplayFor(modelItem => item.Code)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NameOrTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Semester)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.AssignedTo)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,458 @@
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\UniversityManagementSystemApp.dll.config
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\UniversityManagementSystemApp.dll
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\UniversityManagementSystemApp.pdb
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Antlr3.Runtime.dll
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\EntityFramework.dll
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\EntityFramework.SqlServer.dll
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Newtonsoft.Json.dll
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Helpers.dll
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Mvc.dll
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Optimization.dll
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Razor.dll
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.Deployment.dll
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.dll
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.Razor.dll
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\WebGrease.dll
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\EntityFramework.xml
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\EntityFramework.SqlServer.xml
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Helpers.xml
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Mvc.xml
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Razor.xml
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.xml
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.Deployment.xml
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.Razor.xml
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Optimization.xml
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Newtonsoft.Json.xml
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Antlr3.Runtime.pdb
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.csprojResolveAssemblyReference.cache
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.dll
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.pdb
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.sems.resources
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.csproj.GenerateResource.Cache
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.courseadd.resources
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.Adddesignation.resources
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addTeacher.resources
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.teacherCourseAssign.resources
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addStudents.resources
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addEnrollCourse.resources
+D:\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addGradeLetter.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\UniversityManagementSystemApp.dll.config
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\UniversityManagementSystemApp.dll
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\UniversityManagementSystemApp.pdb
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Antlr3.Runtime.dll
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\EntityFramework.dll
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\EntityFramework.SqlServer.dll
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Microsoft.Web.Infrastructure.dll
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Newtonsoft.Json.dll
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Helpers.dll
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Mvc.dll
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Optimization.dll
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Razor.dll
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.Deployment.dll
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.dll
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.Razor.dll
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\WebGrease.dll
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\EntityFramework.xml
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\EntityFramework.SqlServer.xml
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Helpers.xml
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Mvc.xml
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Razor.xml
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.xml
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.Deployment.xml
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.Razor.xml
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Optimization.xml
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Newtonsoft.Json.xml
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Antlr3.Runtime.pdb
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.sems.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.courseadd.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.Adddesignation.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addTeacher.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.teacherCourseAssign.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addStudents.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addEnrollCourse.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addGradeLetter.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addResultEntry.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addRoom.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addDay.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addRoomStatusField.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addRoomAllocate.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addCourseStatusField.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.deptAnotation.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.deptCodeLength.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.deptNameMaxLen63.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.DeptNameUniqRemote.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.courseAnnot.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.DeptDisplay.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.teacherAnnot.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.teacherAnnotForCredit.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.techrCorseAnnot.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.csproj.GenerateResource.Cache
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.dll
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.pdb
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.csprojResolveAssemblyReference.cache
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.stdannot.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotEnrollCourse.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.enorllannot.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotResult.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotCorseForCourseDisplay.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotAllocClassRoom.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate2.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate23.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate234.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate2345.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate23456.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate234567.resources
+D:\OOP Training\August-09-14\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate2345678.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\UniversityManagementSystemApp.dll.config
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\UniversityManagementSystemApp.dll
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\UniversityManagementSystemApp.pdb
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Antlr3.Runtime.dll
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\EntityFramework.dll
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\EntityFramework.SqlServer.dll
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Microsoft.Web.Infrastructure.dll
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Newtonsoft.Json.dll
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Helpers.dll
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Mvc.dll
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Optimization.dll
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Razor.dll
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.Deployment.dll
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.dll
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.Razor.dll
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\WebGrease.dll
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\EntityFramework.xml
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\EntityFramework.SqlServer.xml
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Helpers.xml
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Mvc.xml
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Razor.xml
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.xml
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.Deployment.xml
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.Razor.xml
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Optimization.xml
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Newtonsoft.Json.xml
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Antlr3.Runtime.pdb
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.csprojResolveAssemblyReference.cache
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.sems.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.courseadd.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.Adddesignation.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addTeacher.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.teacherCourseAssign.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addStudents.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addEnrollCourse.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addGradeLetter.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addResultEntry.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addRoom.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addDay.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addRoomStatusField.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addRoomAllocate.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addCourseStatusField.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.deptAnotation.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.deptCodeLength.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.deptNameMaxLen63.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.DeptNameUniqRemote.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.courseAnnot.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.DeptDisplay.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.teacherAnnot.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.teacherAnnotForCredit.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.techrCorseAnnot.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.stdannot.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotEnrollCourse.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.enorllannot.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotResult.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotCorseForCourseDisplay.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotAllocClassRoom.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate2.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate23.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate234.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate2345.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate23456.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate234567.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate2345678.resources
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.csproj.GenerateResource.Cache
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.dll
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.pdb
+H:\practice\Bug Booster\New\Version4\Bug Booster\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.annotNew.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\UniversityManagementSystemApp.dll.config
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\UniversityManagementSystemApp.dll
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\UniversityManagementSystemApp.pdb
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Antlr3.Runtime.dll
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\EntityFramework.dll
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\EntityFramework.SqlServer.dll
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Microsoft.Web.Infrastructure.dll
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Newtonsoft.Json.dll
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Helpers.dll
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Mvc.dll
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Optimization.dll
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Razor.dll
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.Deployment.dll
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.dll
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.Razor.dll
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\WebGrease.dll
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\EntityFramework.xml
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\EntityFramework.SqlServer.xml
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Helpers.xml
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Mvc.xml
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Razor.xml
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.xml
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.Deployment.xml
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.Razor.xml
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Optimization.xml
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Newtonsoft.Json.xml
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Antlr3.Runtime.pdb
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.csprojResolveAssemblyReference.cache
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.sems.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.courseadd.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.Adddesignation.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addTeacher.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.teacherCourseAssign.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addStudents.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addEnrollCourse.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addGradeLetter.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addResultEntry.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addRoom.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addDay.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addRoomStatusField.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addRoomAllocate.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addCourseStatusField.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.deptAnotation.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.deptCodeLength.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.deptNameMaxLen63.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.DeptNameUniqRemote.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.courseAnnot.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.DeptDisplay.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.teacherAnnot.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.teacherAnnotForCredit.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.techrCorseAnnot.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.stdannot.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotEnrollCourse.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.enorllannot.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotResult.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotCorseForCourseDisplay.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotAllocClassRoom.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate2.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate23.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate234.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate2345.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate23456.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate234567.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate2345678.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.annotNew.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.csproj.GenerateResource.Cache
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.dll
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.pdb
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\UniversityManagementSystemApp.dll.config
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\UniversityManagementSystemApp.dll
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\UniversityManagementSystemApp.pdb
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Antlr3.Runtime.dll
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\EntityFramework.dll
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\EntityFramework.SqlServer.dll
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Newtonsoft.Json.dll
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Helpers.dll
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Mvc.dll
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Optimization.dll
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Razor.dll
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.Deployment.dll
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.dll
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.Razor.dll
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\WebGrease.dll
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\EntityFramework.xml
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\EntityFramework.SqlServer.xml
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Helpers.xml
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Mvc.xml
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Razor.xml
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.xml
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.Deployment.xml
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.Razor.xml
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Optimization.xml
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Newtonsoft.Json.xml
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Antlr3.Runtime.pdb
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.csprojResolveAssemblyReference.cache
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.sems.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.courseadd.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.Adddesignation.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addTeacher.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.teacherCourseAssign.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addStudents.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addEnrollCourse.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addGradeLetter.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addResultEntry.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addRoom.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addDay.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addRoomStatusField.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addRoomAllocate.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addCourseStatusField.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.deptAnotation.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.deptCodeLength.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.deptNameMaxLen63.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.DeptNameUniqRemote.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.courseAnnot.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.DeptDisplay.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.teacherAnnot.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.teacherAnnotForCredit.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.techrCorseAnnot.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.stdannot.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotEnrollCourse.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.enorllannot.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotResult.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotCorseForCourseDisplay.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotAllocClassRoom.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate2.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate23.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate234.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate2345.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate23456.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate234567.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate2345678.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.annotNew.resources
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.csproj.GenerateResource.Cache
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.dll
+D:\Day25\Version4\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.pdb
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\UniversityManagementSystemApp.dll.config
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\UniversityManagementSystemApp.dll
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\UniversityManagementSystemApp.pdb
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Antlr3.Runtime.dll
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\EntityFramework.dll
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\EntityFramework.SqlServer.dll
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Microsoft.Web.Infrastructure.dll
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Newtonsoft.Json.dll
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Helpers.dll
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Mvc.dll
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Optimization.dll
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Razor.dll
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.Deployment.dll
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.dll
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.Razor.dll
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\WebGrease.dll
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\EntityFramework.xml
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\EntityFramework.SqlServer.xml
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Helpers.xml
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Mvc.xml
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Razor.xml
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.xml
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.Deployment.xml
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.Razor.xml
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Optimization.xml
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Newtonsoft.Json.xml
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Antlr3.Runtime.pdb
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.csprojResolveAssemblyReference.cache
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.sems.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.courseadd.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.Adddesignation.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addTeacher.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.teacherCourseAssign.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addStudents.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addEnrollCourse.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addGradeLetter.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addResultEntry.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addRoom.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addDay.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addRoomStatusField.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addRoomAllocate.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addCourseStatusField.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.deptAnotation.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.deptCodeLength.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.deptNameMaxLen63.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.DeptNameUniqRemote.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.courseAnnot.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.DeptDisplay.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.teacherAnnot.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.teacherAnnotForCredit.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.techrCorseAnnot.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.stdannot.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotEnrollCourse.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.enorllannot.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotResult.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotCorseForCourseDisplay.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotAllocClassRoom.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate2.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate23.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate234.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate2345.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate23456.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate234567.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate2345678.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.annotNew.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.csproj.GenerateResource.Cache
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.dll
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.pdb
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDeptDisplay.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotStudDeptDisplay.resources
+D:\OOP Training\My Work\Bug Booster\Bug Booster\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotStudDeptDisplay2.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\UniversityManagementSystemApp.dll.config
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\UniversityManagementSystemApp.dll
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\UniversityManagementSystemApp.pdb
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Antlr3.Runtime.dll
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\EntityFramework.dll
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\EntityFramework.SqlServer.dll
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Newtonsoft.Json.dll
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Helpers.dll
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Mvc.dll
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Optimization.dll
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Razor.dll
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.Deployment.dll
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.dll
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.Razor.dll
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\WebGrease.dll
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\EntityFramework.xml
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\EntityFramework.SqlServer.xml
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Helpers.xml
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Mvc.xml
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Razor.xml
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.xml
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.Deployment.xml
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.WebPages.Razor.xml
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\System.Web.Optimization.xml
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Newtonsoft.Json.xml
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\bin\Antlr3.Runtime.pdb
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.csprojResolveAssemblyReference.cache
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.sems.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.courseadd.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.Adddesignation.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addTeacher.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.teacherCourseAssign.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addStudents.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addEnrollCourse.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addGradeLetter.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addResultEntry.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addRoom.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addDay.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addRoomStatusField.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addRoomAllocate.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.addCourseStatusField.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.deptAnotation.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.deptCodeLength.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.deptNameMaxLen63.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.DeptNameUniqRemote.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.courseAnnot.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.DeptDisplay.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.teacherAnnot.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.teacherAnnotForCredit.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.techrCorseAnnot.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.stdannot.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotEnrollCourse.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.enorllannot.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotResult.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotCorseForCourseDisplay.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotAllocClassRoom.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate2.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate23.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate234.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate2345.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate23456.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate234567.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDate2345678.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.annotNew.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotDeptDisplay.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotStudDeptDisplay.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.Migrations.anotStudDeptDisplay2.resources
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.csproj.GenerateResource.Cache
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.dll
+D:\Day26\Version5\UniversityManagementSystemApp\UniversityManagementSystemApp\obj\Debug\UniversityManagementSystemApp.pdb

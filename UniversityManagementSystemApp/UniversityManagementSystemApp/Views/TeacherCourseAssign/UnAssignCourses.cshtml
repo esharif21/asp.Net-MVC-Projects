@@ -1,0 +1,51 @@
+﻿@model UniversityManagementSystemApp.Models.ViewModel.UnAssignCoursesViewModel
+
+@{
+    ViewBag.Title = "UnAssignCourses";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Unassign Courses</h2>
+<fieldset>
+    <legend>Unassign Courses</legend>
+    <div class="col-md-4">
+        <input type="hidden" id="AllCourses" value="@Model.CountOfAllCourses" />
+        <input type="hidden" id="AllAssinedCourses" value="@Model.CountOfAssignedCourses"/>
+    </div>
+    <div class="col-md-4">
+        <button id="UnAssingButton" class="btn btn-block btn-success">Unassign Courses</button>
+    </div>
+    <div class="col-md-4"></div>
+</fieldset>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    @*<script src="~/Scripts/jquery.confirm.js"></script>*@
+    <script>
+        $(document).ready(function () {
+            $('#UnAssingButton').click(function () {
+                if (parseInt($("#AllCourses").val()) > 0) {
+                    if (parseInt($("#AllAssinedCourses").val()) == 0) {
+                        alert("All courses already unassigned.");
+                    }
+                    else {
+                        //var noOfCourse2BUnAssign = parseInt($("#AllAssinedCourses").val());
+                        var json = { noOfCourses: $("#AllCourses").val() };
+                        $.ajax({
+                            type: "POST",
+                            url: '@Url.Action("UnAssignCourses", "TeacherCourseAssign")',
+                            contentType: "application/json; charset=utf-8",
+                            data: JSON.stringify(json),
+                            dataType: "json",
+                            success: function (data) {
+                                alert($("#AllAssinedCourses").val()+" course(s) unassigned successfully.");
+                            }
+                        });
+                    }
+                } else {
+                    alert("No course found at all to assign or unassign.");
+                }
+                
+            });
+        });
+    </script>
+}

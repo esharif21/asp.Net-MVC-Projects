@@ -1,0 +1,132 @@
+﻿@model UniversityManagementSystemApp.Models.AllocateClassRoom
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Create</h2>
+@{
+    if (TempData["RoomOverlapMessage"] != null)
+    {
+        <h3 class="alert alert-danger">@TempData["RoomOverlapMessage"]</h3>
+    }
+}
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>Allocate Class Room</h4>
+        <hr />
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            @Html.Label("Department", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("DepartmentId", null, "[Select Department]", new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.DepartmentId)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Course", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("CourseId",null, "[Select Course]", new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.CourseId)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Room No", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("RoomId", null, "[Select Room]", new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.RoomId)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Time Day", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("DayId", null, "[Select Day]", new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.DayId)
+            </div>
+        </div>
+        <div class="row">
+            
+            <div class="col-md-2 text-right">
+                @Html.Label("Start Time")
+            </div>
+            <div class="col-md-2">
+                @Html.EditorFor(model => model.StartTime)
+                @Html.ValidationMessageFor(model => model.StartTime)
+            </div>
+            <div class="col-md-2">
+                <div class="expandor">
+                    <div class="static" style="background-color: #d3d3d3; display: block; width: 200px;">
+                        <img src="~/Images/caution.jpg" title="hint" /><b>Show hINT</b>
+                    </div>
+                    <div class="dynamic table-bordered" style="background-color: #fff; display: none; width: 200px;">
+                        Start & End Time must be (<b>HH:MM</b>) 24 hours format
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6"></div>
+        </div>
+        <br/>
+        <div class="form-group">
+            @Html.Label("End Time", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.EndTime)
+                @Html.ValidationMessageFor(model => model.EndTime)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Allocate" class="btn btn-success" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $(".expandor").hover(
+   function () {
+       $(this).find(".dynamic").clearQueue().slideToggle();
+   });
+            //cascede DDL:
+            function loadCourseDDL(deptId) {
+                var courseItems = "<option value=\"\">" + "[Select Course]" + "</option>";
+                $.ajax({
+                    url: "@Url.Action("GetCourseInfoByDept", "TeacherCourseAssign")",//action, controller
+                    data: { departmentId: deptId },
+                    dataType: "json",
+                    type: "POST",
+                    error: function() {
+                        $("#CourseId").html(courseItems);
+                    },
+                    success: function(data) {
+                        $.each(data, function(i, item) {
+                            courseItems += "<option value=\"" + item.Value + "\">" + item.Text + "</option>";
+                        });
+                        $("#CourseId").html(courseItems);
+                    }
+                });
+            }
+            $("#DepartmentId").change(function() {
+                $("#CourseId").html("<option value=\"\">" + "[Select Course]" + "</option>");
+                var deptId = $("#DepartmentId").val();
+                loadCourseDDL(deptId);
+            });
+        });
+    </script>
+    }

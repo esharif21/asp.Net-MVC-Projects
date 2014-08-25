@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Demo Web Site for University</title>
+    @Styles.Render("~/Content/css")
+        @Scripts.Render("~/bundles/modernizr")
+    <link href="~/Content/bootstrap-datetimepicker.min.css" rel="stylesheet" />
+    <script src="~/Scripts/bootstrap-datetimepicker.min.js"></script>
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @*@Html.ActionLink("Application name", "Index", "Home", null, new { @class = "navbar-brand" })*@
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Department", "Index", "Department")</li>
+                    <li>@Html.ActionLink("Course", "Index", "Course")</li>
+                    <li>@Html.ActionLink("Teacher", "Index", "Teacher")</li>
+                    <li>@Html.ActionLink("Teacher Course Assign", "Index", "TeacherCourseAssign")</li>
+                    <li>@Html.ActionLink("View Course Status", "ViewCourseStatus", "TeacherCourseAssign")</li>
+                    <li>@Html.ActionLink("Student Registration", "Index", "Student")</li>
+                    <li>@Html.ActionLink("Enrollment", "Index", "EnrollCourse")</li>
+                    <li>@Html.ActionLink("Result Entry", "Create", "ResultEntry")</li>
+                    <li>@Html.ActionLink("Allocate Class Room", "Create", "AllocateClassRoom")</li>
+                    <li>@Html.ActionLink("View Room Allocation", "ViewRoomAllocation", "AllocateClassRoom")</li>
+                    <li>@Html.ActionLink("View Result", "ViewResult", "ResultEntry")</li>
+                    <li>@Html.ActionLink("Unassign Courses", "UnassignCourses", "TeacherCourseAssign")</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p><div class="text-center"></>&copy; @DateTime.Now.Year - A Demo Version of Varsity Web Site<br />Developed by <strong>BUG BOOSTER</strong><br />OOP 48th Batch</div></p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

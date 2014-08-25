@@ -1,0 +1,35 @@
+﻿@model IEnumerable<UniversityManagementSystemApp.Models.Course>
+
+@{
+    ViewBag.Title = "ViewRoomAllocation";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>View Room Allocation</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        <b>Select Department</b>
+        @Html.DropDownList("DepartmentId", "[Select Department]")
+    </div>
+}
+@{
+    if (TempData["RoomAlloacteSuccessMessage"] != null)
+    {
+        <h3 class="alert alert-success">@TempData["RoomAlloacteSuccessMessage"]</h3>
+    }
+}
+<p><br /></p>
+<div id="room-data">
+    @Html.Partial("~/Views/shared/_ViewRoomAllocation.cshtml", Model)
+</div>
+
+<script type="text/javascript">
+    $(function () {
+        $('#DepartmentId').change(function () {
+            var id = $('#DepartmentId').val();
+            $('#room-data').load('@Url.Action("LoadAllocatedRoom")', { departmentId: id });
+        });
+    });
+</script>
