@@ -19,9 +19,6 @@ We got an A+ with this project as well as I was the best performer of the whole 
 
 Contact Info
 ============
-Md. Shariful Islam
-Mobile: 01778892251
-Email: esharif21@gmail.com
-https://facebook.com/esharif21
+Md. Shariful Islam, Mobile: 01778892251, Email: esharif21@gmail.com, at fb: https://facebook.com/esharif21
 
 Thanks!
