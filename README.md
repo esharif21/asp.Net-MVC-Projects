@@ -15,10 +15,10 @@ Or you can see it here https://github.com/esharif21/asp.Net-MVC-Projects/tree/ma
 
 Achievement
 ===========
-We got an A+ with this project as well as I was the best performer of the whole batch. Overall I got 91% marks.
+Our team got A+ with this project as well as I was the best performer of the whole batch. Overall I got 91% marks.
 
 Contact Info
 ============
-Md. Shariful Islam, Mobile: 01778892251, Email: esharif21@gmail.com, at fb: https://facebook.com/esharif21
+Md. Shariful Islam, Email: esharif21@gmail.com
 
 Thanks!
